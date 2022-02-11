@@ -1,40 +1,36 @@
-# create-svelte
+# Frontend Mentor - QR code component solution
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Creating a project
+## Table of contents
 
-If you're seeing this, you've probably already done this step. Congrats!
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
 
-```bash
-# create a new project in the current directory
-npm init svelte@next
+## Overview
 
-# create a new project in my-app
-npm init svelte@next my-app
-```
+### Screenshot
 
-> Note: the `@next` is temporary
+![](./screenshot.png)
 
-## Developing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+### Links
 
-```bash
-npm run dev
+- Solution URL: 
+- Live Site URL: 
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+## My process
 
-## Building
+### Built with
 
-To create a production version of your app:
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- [Svelte/kit](https://kit.svelte.dev/) - Svelte Kit
+- [WindiCss](https://windicss.org/) - For styles
 
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
