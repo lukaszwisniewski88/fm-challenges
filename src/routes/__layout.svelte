@@ -1,8 +1,5 @@
 <script>
+	import 'virtual:windi.css';
 </script>
 
 <slot />
-
-<!-- use this for global preflights -->
-<style windi:preflights:global>
-</style>
